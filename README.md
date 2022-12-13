@@ -1,5 +1,5 @@
 # 🍃Spring
-[김영한의 스프링 완전 정복 로드맵 스터디](https://www.inflearn.com/roadmaps/373#c325630)
+[김영한의 스프링 완전 정복 로드맵](https://www.inflearn.com/roadmaps/373#c325630)
 
 ## 📚스터디 개요
 한번 완강한 로드맵이지만 강의를 복습하며 내용들을 정리하고 기록하기 위한 목적으로 진행.
