@@ -9,7 +9,7 @@
     
 | 강의  |완료|
 |:---:|:---:|
-| 스프링 핵심 원리 - 기본편 |✅|
+| [스프링 핵심 원리 - 기본편](https://github.com/woohyeonjoe/Spring/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8) |✅|
 | 모든 개발자를 위한 HTTP 웹 기본 지식 ||
 | 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술 ||
 | 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술 ||
