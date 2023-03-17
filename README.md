@@ -16,4 +16,4 @@
 | [스프링 DB 1편 - 데이터 접근 핵심 원리](https://github.com/woohyeonjoe/Spring/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81%20DB%201%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC) |✅|
 | [스프링 DB 2편 - 데이터 접근 활용 기술](https://github.com/woohyeonjoe/Spring/tree/main/%EC%8A%A4%ED%94%84%EB%A7%81%20DB%202%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%99%9C%EC%9A%A9%20%EA%B8%B0%EC%88%A0) |✅|
 | 스프링 핵심 원리 - 고급편 |`진행예정`|
-
+| 스프링 부트 - 핵심 원리와 활용 |`진행예정`|
